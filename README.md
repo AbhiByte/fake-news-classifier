@@ -33,11 +33,14 @@ This project was developed using multiple modules, documentation can be found be
 * [Matplotlib](https://matplotlib.org)
 * [pandas](https://pandas.pydata.org)
 * [NumPy](https://numpy.org)
+* [Anaconda](https://www.anaconda.com/products/individual)
 * [Pickle](https://docs.python.org/3/library/pickle.html)
   
 ## Demonstration
   
 ### Prerequisites
+First, install all dependencies listed above / in the jupyter file.
+Instructions on how to set up Anaconda and the notebook environment can be found [here](https://www.youtube.com/watch?v=2WL-XTl2QYI)
 
 
 ## Contributing
