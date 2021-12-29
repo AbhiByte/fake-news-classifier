@@ -1,7 +1,7 @@
 <br />
   <p align="center">
   <a href="https://github.com/AbhiByte/DeceptiBOT">
-    <img src="Images/logo.jpg" alt="Logo" width="120" height="120">
+    <img src="Images/news_icon.png" alt="Logo" width="120" height="120">
   </a>
 
   <h2 align="center">DeceptiBOT</h2>
