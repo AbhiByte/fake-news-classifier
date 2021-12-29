@@ -35,16 +35,24 @@ This project was developed using multiple modules, documentation can be found be
 * [NumPy](https://numpy.org)
 * [Anaconda](https://www.anaconda.com/products/individual)
 * [Pickle](https://docs.python.org/3/library/pickle.html)
+* [PyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/)
   
 ## Demonstration
   
 ### Prerequisites
 First, install all dependencies listed above / in the jupyter file.
+
 Instructions on how to set up Anaconda and the notebook environment can be found [here](https://www.youtube.com/watch?v=2WL-XTl2QYI)
+  
+Instructions on setting up a Telegram bot can be found [here](https://www.youtube.com/watch?v=NwBWW8cNCP4)
+  
+### Demo
+Head over to any news source and copy the text:
+
 
 
 ## Contributing
-Have a burning idea you feel could improve Deceptibot?
+Have a burning idea you feel could improve DeceptiBOT?
 
 1. Fork the project
 2. Create a new branch (`git checkout -b update`)
