@@ -51,7 +51,7 @@ Head over to any news source and copy the text:
 
 <img src="Images/news_text_copy.png">
 
-Use the ` /start  ` command to initiate the process:
+Use the ` /Start` command to initiate the process:
 
 <img src="Images/start.png">
 
