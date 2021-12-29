@@ -48,7 +48,8 @@ Instructions on setting up a Telegram bot can be found [here](https://www.youtub
   
 ### Demo
 Head over to any news source and copy the text:
-<img src="Images/news_text_copy.png" alt="Logo" width="120" height="120">
+
+<img src="Images/news_text_copy.png">
 
 
 ## Contributing
