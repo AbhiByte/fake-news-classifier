@@ -54,6 +54,10 @@ Head over to any news source and copy the text:
 Use the ` /Start` command to initiate the process:
 
 <img src="Images/start.png">
+  
+The bot displays its prediction as follows:
+  
+<img src="Images/bot_result.png">
 
 ## Contributing
 Have a burning idea you feel could improve DeceptiBOT?
