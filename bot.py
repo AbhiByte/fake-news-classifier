@@ -2,7 +2,7 @@
 from model import Model
 import telebot
 
-API_KEY = "5045310707:AAFIMIDwth0Xc3B2y1TpC7TId1lp6CSWFxc"
+API_KEY = "YOUR_KEY"
 bot = telebot.TeleBot(API_KEY)
 myModel = Model()
 
