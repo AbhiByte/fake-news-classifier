@@ -2,6 +2,7 @@
 import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+#model object to be used in bot.py
 class Model():
     def __init__(self):
         # Load the trained model and TFIDF Vector
