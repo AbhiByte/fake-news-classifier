@@ -25,7 +25,7 @@
 
 ## About The Project
 
-Deceptibot uses a machine learning model to classify news articles in a dataset as real or fake via the PassiveAgressiveClassifier. This model is then applied to user-submitted-news using a Telegram messenger bot.
+DeceptiBOT uses a machine learning model to classify news articles in a dataset as real or fake via the PassiveAgressiveClassifier. This model is then applied to user-submitted-news using a Telegram messenger bot.
 
 ### Developed Using
 This project was developed using multiple modules, documentation can be found below:
