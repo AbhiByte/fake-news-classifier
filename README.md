@@ -4,7 +4,7 @@
     <img src="Images/news_icon.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h2 align="center">DeceptiBOT</h2>
+  <h2 align="center">Fake news classifier</h2>
   <p align="center">
     Bot application for classifying news articles as REAL or FAKE using Machine Learning 
     <br />
